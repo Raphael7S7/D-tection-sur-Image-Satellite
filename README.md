@@ -2,7 +2,7 @@
 
 Le script python Satellite_streamlit.py permet de lancer dans un environnement local un outil de détection de navires présents sur une image satellite.
 Un modèle de type réseau de neurones convolutif a été entrainé sur une base de données comportant 4000 images labélisées par présence d'un navire ou non.
-Une fois le modèle entrainé on peut détecter sur une nouvelle image satellite (exemples disponible dans le fichier scenes ou utilisé ses propres images) la présence et l'emplacement des navires repérés. 
+Une fois le modèle entrainé on peut détecter sur une nouvelle image satellite (exemples disponible dans le fichier scenes ou utiliser ses propres images) la présence et l'emplacement des navires repérés. 
 
 Les différents fichiers sont : 
 
